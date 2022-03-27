@@ -20,8 +20,8 @@
      </h3>
      <div class="row">
 
-         <div class="col-md-4">
-        <img class=img-fluid" url="http://206.189.45.97/~mesh19/wp-content/uploads/2022/03/image-2.jpg" alt="woman">
+     <div class="col-md-4">
+        <img class="img-fluid" src="image/image-2.jpg" alt="woman">
         <h4 class="article-title"> A PORTRAIT</h4>
         <p class="date"> Friday November 2030</p>
         <p class="article-p">STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of the arts.
@@ -31,7 +31,7 @@
            </div>
 
            <div class="col-md-4">
-            <img class="img-fluid" url="http://206.189.45.97/~mesh19/wp-content/uploads/2022/03/image-3.jpg" alt="woman">
+            <img class="img-fluid" src="image/image-3.jpg" alt="woman">
             <h4 class="article-title"> A PORTRAIT</h4>
             <p class="date"> Friday November 2030</p>
             <p class="article-p">STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of the arts.
@@ -43,7 +43,7 @@
     </a>
 
                <div class="col-md-4">
-                <img class="img-fluid" url="http://206.189.45.97/~mesh19/wp-content/uploads/2022/03/image-4.jpg" alt="woman">
+                <img class="img-fluid" src="image/image-4.jpg" alt="woman">
                 <h4 class="article-title"> A PORTRAIT</h4>
                 <p class="date"> Friday November 2030</p>
                 <p class="article-p">STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of the arts.
