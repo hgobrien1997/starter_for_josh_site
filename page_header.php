@@ -70,7 +70,7 @@ echo ' - page '. $paged; }
 
       <div class="smallpage-tag">
 
-      <h1 class="smallpage-title"> Games Design for the Future </h1>
+      <h1 class="smallpage-title"> Projects </h1>
     </div>
     </div> <!-- container -->
 
