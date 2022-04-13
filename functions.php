@@ -10,7 +10,6 @@ wp_enqueue_style( 'test', get_stylesheet_directory_uri() . '/responsive.css' );
 }
 add_action( 'wp_enqueue_scripts', 'load_my_scripts');
 ?>
-
 <?php
 register_nav_menus( array(
     'primary' => __( 'Primary Menu', 'top-menu' ),
