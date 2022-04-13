@@ -70,12 +70,9 @@ echo ' - page '. $paged; }
 
       <div class="smallpage-tag">
 
-<<<<<<< HEAD
-    </div>    <h1 class="smallpage-title"> Projects  </h1>
-=======
-      <h1 class="smallpage-title"> Projects </h1>
-    </div>
->>>>>>> 8547d792c97557164ef1f554920bb6b87c2dbfd8
+    </div>    
+    
+    <h1 class="smallpage-title"> Projects  </h1>
     </div> <!-- container -->
 
     <?php wp_head(); ?>
